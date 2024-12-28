@@ -1,0 +1,5 @@
+bin
+.envrc
+monero-wallet-cli.log
+my-monero-wallet
+my-monero-wallet.keys
